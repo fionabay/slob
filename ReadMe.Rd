@@ -1,9 +1,3 @@
-# implementation for stochastic LOB
+# implied volatility surface cabliration on GPU
 
-### 1 parameter estimation from LOB
-
-limit order order rate
-
-market order arrial rate
-
-cancellation rate
+### 1 accelerated parameter estimation by SVI
