@@ -1,7 +1,12 @@
-# implied volatility surface cabliration on GPU
+# Some Risk Metrics Collected From LOB
 
-### 1 accelerated option pricing parameter estimation by SVI
+## 1 VaR calculation by Delta/Gamma approximation and Monte Carlo Simulation
 
-### 2 flow toxicity by VPIN and PIN
+## 2 Intra Day Flow Toxicity by VPIN and PIN
 
-### 3 locomotive problem by Baye's theorem
+## 3 Accelerated Option Pricing Parameter Estimation by SVI
+
+## 4 Locomotive Problem by Baye's theorem
+
+
+
